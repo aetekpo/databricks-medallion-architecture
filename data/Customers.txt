@@ -1,0 +1,16 @@
+customer_id,first_name,last_name,email,signup_date
+1001,John,Doe,john.doe@example.com,2023-01-15
+1002,Sarah,Lee,sarah.lee@example.com,2023-02-10
+1003,Michael,Smith,,2023-03-05
+1003,Michael,Smith,michael.smith@example.com,2023-03-05
+1004,Ana,Gomez,ana.gomez@example.com,2027-01-01
+1005,David,Kim,david.kim@example.com,2023-04-12
+1006,Emily,Stone,emily.stone@example.com,2023-05-20
+1007,Robert,Brown,robert.brown@example.com,2023-06-01
+1008,Linda,White,linda.white@example,2023-06-15
+1009,James,Hall,james.hall@example.com,2023-07-10
+1010,Patricia,Young,patricia.young@example.com,2023-07-22
+1011,,Turner,turner@example.com,2023-08-01
+1012,Kevin,Lopez,kevin.lopez@example.com,2023-08-15
+1013,Olivia,King,olivia.king@example.com,2023-09-05
+1014,Henry,Scott,henry.scott@example.com,2023-09-20

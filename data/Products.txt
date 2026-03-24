@@ -1,0 +1,16 @@
+product_id,product_name,category,price
+2001,Widget A,Hardware,25.50
+2002,Widget B,Hardware,30.00
+2003,,Hardware,15.00
+2004,Widget D,Software,-5.00
+2005,Widget E,Hardware,0
+2006,Widget F,Software,45.00
+2007,Widget G,Hardware,22.00
+2008,Widget H,Software,5000.00
+2009,Widget I,Hardware,18.00
+2010,Widget J,Hardware,27.00
+2011,Widget K,Software,33.00
+2012,Widget L,Hardware,19.50
+2013,Widget M,Software,40.00
+2014,Widget N,Hardware,29.00
+2014,Widget N Duplicate,Hardware,29.00
