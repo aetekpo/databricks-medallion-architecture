@@ -30,6 +30,9 @@ Each record includes:
 • 	Failure reason
 • 	Severity
 • 	Timestamp
+## ✔ Deduplication logic
+CTEs identify duplicates using ROW_NUMBER( ) and quarantine all but the “best” record.
+
 
 
 
