@@ -15,6 +15,11 @@ The objective of this project is to design and implement an end‑to‑end data 
 • Silver: Cleaned, validated, typed, deduplicated data
 • Gold: Business‑ready star schema (facts + dimensions)
 # 🛡️ Data Quality Framework
+The Silver layer includes a comprehensive DQ system:
+# ✔ Rule‑based validation
+Each table has explicit rules (e.g., no null IDs, valid dates, positive quantities).
+# ✔ Quarantine tables
+Invalid rows are redirected into:
 
 
 
