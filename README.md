@@ -11,4 +11,7 @@ The objective of this project is to design and implement an end‑to‑end data 
 • Modeling a Gold‑layer star schema for analytics
 • Preparing the foundation for KPIs, semantic modeling, and dashboards.
 # 🏗️ Architecture
+•## Bronze: Raw ingested data
+• Silver: Cleaned, validated, typed, deduplicated data
+• Gold: Business‑ready star schema (facts + dimensions)
 
