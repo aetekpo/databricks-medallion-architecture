@@ -31,7 +31,10 @@ Each record includes:
 • 	Severity
 • 	Timestamp
 ## ✔ Deduplication logic
-CTEs identify duplicates using ROW_NUMBER( ) and quarantine all but the “best” record.
+CTEs identify duplicates using ROW_NUMBER() and quarantine all but the “best” record.
+## ⭐ Gold Layer: Star Schema
+The Gold layer contains a clean, analytics‑optimized star schema:
+### Dimensions
 
 
 
